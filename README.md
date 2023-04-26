@@ -1,4 +1,4 @@
-<h1> Bienvenue sur mon profile 👋</h1>
+<h1> Bienvenue sur mon profil 👋</h1>
 Pour l'instant, il est vierge, mais un jour peut-être, vous pourrez y retrouver divers projets de ma conception.
 <hr>
 
