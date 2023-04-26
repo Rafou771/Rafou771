@@ -1,5 +1,5 @@
 <h1> Bienvenue sur mon profile 👋</h1>
-Pour l'instant, ilest vierge, mais un jour peut-être, vous pourrez y retrouver divers projets de ma conception.
+Pour l'instant, il est vierge, mais un jour peut-être, vous pourrez y retrouver divers projets de ma conception.
 <hr>
 
 <h2>Contacts</h2>
