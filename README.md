@@ -7,6 +7,9 @@ Pour l'instant, ilest vierge, mais un jour peut-être, vous pourrez y retrouver 
 <div align="left">
     <img src="./imgs/Discord.png" alt="Logo discord.com"> 
     Rafou771#0923
+</div>
+</br>
+<div align="left">
     <a href="https://myanimelist.net/profile/Rafou771" target="_blank">
         <img src="./imgs/MAL.png"
             alt="Logo myanimelist.net">
