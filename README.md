@@ -1,5 +1,5 @@
 <h1> Bienvenue sur mon profil 👋</h1>
-Pour l'instant, il est vierge. 
+Pour l'instant, il est vierge.</br>
 Un jour, peut-être, vous pourrez y retrouver divers projets de ma conception.
 <hr>
 
