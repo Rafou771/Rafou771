@@ -7,9 +7,9 @@ Un jour, peut-être, vous pourrez y retrouver divers projets de ma conception.
 
 <div align="left">
     <img src="./imgs/Discord.png" alt="Logo discord.com"> 
-    <a href="https://myanimelist.net/profile/Rafou771" target="_blank">
+    <!--<a href="https://myanimelist.net/profile/Rafou771" target="_blank">
         <img src="./imgs/MAL.png"
             alt="Logo myanimelist.net">
-    </a>
+    </a>-->
 </div>
 Rafou771#0923
