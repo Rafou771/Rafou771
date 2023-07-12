@@ -3,7 +3,7 @@ Pour l'instant, il est vierge</br>
 Mais un jour, peut-être, vous pourrez y retrouver divers projets de ma conception
 <hr>
 
-<h2>Contacts</h2>
+<h2>Contact</h2>
 
 <div align="left">
     <img src="./imgs/Discord.png" alt="Logo discord.com"> 
