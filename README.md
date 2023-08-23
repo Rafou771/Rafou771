@@ -8,9 +8,5 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 
 <h2>Contact</h2>
 
-
-<p style = "float:right">
-    <img src="./imgs/Discord.png" alt="Logo discord.com">
-</p>
-
-<p>@Rafou376</p>
+<img src="./imgs/Discord.png" alt="Logo discord.com">
+@Rafou376
