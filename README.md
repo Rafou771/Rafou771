@@ -4,9 +4,11 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 
 <h2>Langages utilisés</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,lua)](https://skillicons.dev)
+<img src= "https://skillicons.dev/icons?i=js,html,css,python,lua">
 
 <h2>Contact</h2>
 
-<img src="./imgs/Discord.png" alt="Logo discord.com">
+
+<img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com">
+
 @Rafou376
