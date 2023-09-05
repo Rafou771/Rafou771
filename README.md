@@ -8,6 +8,6 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 
 <h2>Contact</h2>
 
-|                                                                         |   Pseudo   |
-:------------------------------------------------------------------------:|:----------:|
-|<img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com">| `Rafou376` |
+|                                                                                                         |   Pseudo   |
+:--------------------------------------------------------------------------------------------------------:|:----------:|
+|<a href="discord.com/app"> <img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com"> </a>| `Rafou376` |
