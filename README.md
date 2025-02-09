@@ -1,5 +1,4 @@
 <h1> Bienvenue sur mon profil 👋</h1>
-<img src="https://visitcount.itsvg.in/api?id=Rafou771&label=‎Vues&color=5&icon=5&pretty=false"/>
 Pour l'instant, il est vierge</br>
 Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conception
 
